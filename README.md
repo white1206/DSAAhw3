@@ -1,8 +1,5 @@
 # Closest Pair of Points - Assignment 3
 
-## Author
-Chang Le
-
 ## Overview
 This project implements two divide-and-conquer algorithms for the closest pair of points problem in the plane:
 
@@ -16,10 +13,6 @@ Both algorithms output:
 - The minimum Euclidean distance between any two distinct points
 - Execution time (in seconds)
 
-## Requirements
-
-### Python Version
-- Python 3.8 or higher
 
 ### Dependencies
 No external libraries required. Only the Python standard library is used.
