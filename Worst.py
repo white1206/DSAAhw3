@@ -29,9 +29,7 @@ def cross_pair(points_by_y, mid_x, d):
     m = len(strip)
     
     for i in range(m):
-        # 检查后续最多 7 个点
         for j in range(i+1, min(i+8, m)):
-            # y 方向剪枝
             if strip[j].y - strip[i].y >= min_d:
                 break
             
