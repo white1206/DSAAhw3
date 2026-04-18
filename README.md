@@ -1,11 +1,6 @@
 ```markdown
 # Closest Pair of Points - Assignment 3
 
-## Author
-[Your Name]
-
-## Date
-[Current Date]
 
 ## Overview
 This project implements two divide-and-conquer algorithms for the closest pair of points problem in the plane:
