@@ -1,4 +1,4 @@
-```markdown
+
 # Closest Pair of Points - Assignment 3
 
 
