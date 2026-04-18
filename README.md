@@ -23,30 +23,6 @@ Both algorithms output:
 ### Dependencies
 No external libraries required. Only the Python standard library is used.
 
-## File Structure
-```
-.
-├── closest_pair.py      # Main implementation (both algorithms)
-├── test_data/           # Directory for test datasets
-│   ├── points1.in
-│   └── points2.in
-├── README.md            # This file
-└── report.pdf           # Assignment report
-```
-
-## Usage
-
-### Running the Program
-
-```bash
-python closest_pair.py <input_file>
-```
-
-### Example
-
-```bash
-python closest_pair.py test_data/points1.in
-```
 
 ### Input Format
 
